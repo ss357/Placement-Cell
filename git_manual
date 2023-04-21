@@ -1,0 +1,6 @@
+git init
+git remote add origin "<LINK>"
+git status
+git add .
+git commit -m "First commit: create the directory structure and github express server"
+git log
